@@ -1,0 +1,134 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Vasileios Aretakis",
+    "label": "Principal DevOps expert",
+    "image": "images/profile.jpg",
+    "email": "vassilis@aretakis.eu",
+    "phone": "+49 (0) 175 668 1 688",
+    "url": "http://vassilis.aretakis.eu",
+    "summary": "Leading teams to Success. Guiding multiple teams into one target. With the understanding of infrastructure and application. With extensive experience in Cloud and On-Premise.",
+    "location": {
+      "address": "",
+      "city": "Berlin",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Vassilis",
+        "url": "https://linkedin.com/in/varet"
+      },
+      {
+        "network": "GitHub",
+        "username": "varet80",
+        "url": "https://github.com/varet80"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SAP Signavio",
+      "location": "Germany, Berlin",
+      "description": "Best Workflow software",
+      "position": "Pr. Technical Expert",
+      "url": "https://signavio.com",
+      "startDate": "2021",
+      "summary": "Signavio is the best in business for Process Analytics, workflow management and many more",
+      "highlights": [
+        "Cross org. Technology strategy.<br>Setup new teams in order to achieve targets.<br>But also consolidate resources",
+        "Began by Mentoring and growing the DevOps engineers team.<br>From 4 people to more than 16.<br>Lead multiple Workstreams into success.",
+        "Moved to a Cross team Tech lead"
+      ]
+    },
+    {
+      "name": "Elsevier",
+      "location": "Netherlands, Amsterdam",
+      "description": "Great data, intensive customers",
+      "position": "Infrastructure Manager",
+      "url": "https://elsevier.com",
+      "startDate": "2018",
+      "endDate": "2021",
+      "summary": "Reed Elsevier is a cross entities company. The primary focus for my role was into the products performing Aggregation of data with B2B customers",
+      "highlights": [
+        "Intermittent management of cross DevOps teams",
+        "Work with five Dev squads, support dev teams and lead the way to devOps practices",
+        "Implement new strategy on CI/CD and Branching strategy accross Development and Operations",
+        "Bring teams together, guide to modern infrastructure",
+        "Feed value back to organization by leading through example and providing new standards.",
+        "Create a Greenfield team, with pationate engineers. Driving them to new cross platform success",
+        "Work with new Dev Squads and introduce standardization across squads",
+        "Reduce time and cost to production. Intorducing real DevOps practices."
+      ]
+    },
+    {
+      "name": "Schuberg Philis",
+      "location": "Netherlands, Hoofdorp",
+      "description": "Consultancy but not exactly",
+      "position": "Infrastructure Manager",
+      "url": "https://elsevier.com",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Lead multiple custoemr projects, into technical success",
+      "highlights": [
+        "Support Financial institutions, using modern methods on classic software. While keeping short delivery cycles, of a modern setup.",
+        "Lead the changes in the team, and support Human Factor",
+        "Introduce modern Container platform.",
+        "Automate and build Dual Cloud implementation, involving Private/public clouds.",
+        "Classing Banking made easy"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Greek"
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Basic"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
